@@ -51,11 +51,11 @@ National Iron Ore Mining Company Itakpe is one of the major iron mining company 
 
 SIDE PROJECTS
 
-*	Customer Churn : a model or system to determine when a customer is likely to change or switch a service.
-*	Loan Status:  a system to predict or classify that is likely to default in payment of loan 
+*	Customer Churn: a model or system to determine when a customer is likely to change or switch a service.
+*	Loan Status: a system to predict or classify that is likely to default in payment of loan 
 *	House Sales: data analysis and prediction of housing sales price in King County, USA.
 *	Segmentation and Clustering of Neighbourhoods: To segment and cluster neighbourhood in Downtown Toronto in Toronto City
-*	The Battle of Neighbourhoods - To recommend the best Borough, either the Manhattan or the  Downtown Toronto, to site a restaurant business 
+*	The Battle of Neighbourhoods - to recommend the best Borough, either the Manhattan or the  Downtown Toronto, to site a restaurant business 
 
 EDUCATIONS AND CERTIFICATES
 
