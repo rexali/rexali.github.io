@@ -5,8 +5,6 @@ date:   2024-06-24 20:34:49 +0100
 categories: jekyll update
 ---
 
-## Definition of Copywriting
-
 * So, you want to know what copywriting really means?
 
 * Well, here's the deal. Copywriting is the process of writing words that sell, persuade, and convince people to take action. 

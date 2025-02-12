@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Who is Rexali - Resume"
+title:  "Who is Rexali - My Resume"
 date:   2019-05-23 05:16:49 +0100
 categories: jekyll update
 ---
