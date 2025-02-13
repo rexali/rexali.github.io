@@ -2,16 +2,25 @@
 layout: post
 title:  "SUN KING’s HOME 500X: Discover How Sun King’s HOME 500X Mini Solar System Saved the Day"
 date:   2024-06-24 20:34:49 +0100
-categories: jekyll update
+categories: marketing update
 ---
 
 ![Sun King Solar]({{site.baseurl}}/images/sunking-solar1.jpg)
 ![Sun King Solar]({{site.baseurl}}/images/sunking-solar2.jpg)
 ![Sun King Solar]({{site.baseurl}}/images/sunking-solar3.jpg)
 
-Usman has a discipline teacher who doesn't play with his assignment he gives to student. On this day, Mr Adam, Usman’s teacher gave an assignment that required submission on the next day.
-On getting home Usman realised there was no light and got worried. He discussed this with his mother about it but her response was not encouraging. In the evening when his father came he related the issue to him. His response was don't worry we will do something about it. After a while  he came out with Sun King’s HOME 500X Mini Solar System.
+Usman has a discipline teacher who doesn't play with his assignment he gives to student. 
+
+On this day, Mr Adam, Usman’s teacher gave an assignment that required submission on the next day.
+
+On getting home Usman realised there was no light and got worried. 
+
+He discussed this with his mother about it but her response was not encouraging. 
+
+In the evening when his father came he related the issue to him. His response was don't worry we will do something about it. After a while  he came out with Sun King’s HOME 500X Mini Solar System.
+
 Usman was delighted and relieved he knew he will be able to meet up with the submission deadline.
+
 Eventually Usman was saved from Mr Adam’s “Koboko” and punishment.
 
 
@@ -45,7 +54,7 @@ Give us a call, WhatsApp us or click the link below to get in touch:
 WhatsApps Link: [Tap][whatsapp-link]
 
 
-Call us: +2348065899144 '''html <a href='tel:+2348065899144'>Call US</a> '''
+Call us: [+2348065899144][call-us]
 
 
 Visit us: No. 463 N-Tsakiya, Naibawa, Kumbotso, Kano State, Nigeria
@@ -54,4 +63,4 @@ Visit us: No. 463 N-Tsakiya, Naibawa, Kumbotso, Kano State, Nigeria
 #Solar #SolarPanel #SolarSystem #LighteningYourHome #SayNoToDarkness
 
 [whatsapp-link]: https://wa.me/+2348065899144
-[call-us]: https://tel:+2348065899144
+[call-us]: tel:+2348065899144
