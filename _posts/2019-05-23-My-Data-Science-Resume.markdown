@@ -2,7 +2,7 @@
 layout: post
 title:  "My Data Science Resume"
 date:   2019-05-23 05:16:49 +0100
-categories: data-science update
+categories: data update
 ---
 
 Name: Aliyu (Baba) Bello 
