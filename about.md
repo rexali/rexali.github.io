@@ -4,15 +4,33 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## About Me
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Hi, I’m Aliyu, a geologist turned Software Developer cum Digital Marketer and who loves building business- and education-related products.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I am presently working on and building a multi-tenant application in other words softawre as a service (SaaS)
+and platform as a service (PaaS) services for businesses and organisations using React, Node.js, Next.js, JavaScript, Typescript, Express.js, HTML, CSS, Bootstrap, and React-Bootsrap, MUI React etc
 
+I recently developed a marketplace web application using React, Node.js, Next.js JavaScript, Express.js Typescript HTML, CSS, Bootstrap, and React-Bootsrap, MUI React etc
 
-[jekyll-organization]: https://github.com/jekyll
+I would like to combine my passion for learning with my software development skills to build business and
+educational software products or services for businesses and organisations
+
+### Skills:
+
+* React
+* Node.js
+* Next.js
+* Bootstrap
+* Javascript
+* Typescript
+* Mongoose
+* MongoDB
+* Flask
+* Python
+* PHP
+* Laravel
+* HTML
+* CSS etc
+
+My GitHub profile is [Rexali](https://github.com/rexali)
