@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Who is Rexali - My Resume"
+title:  "My Data Science Resume"
 date:   2019-05-23 05:16:49 +0100
-categories: jekyll update
+categories: data-science update
 ---
 
 Name: Aliyu (Baba) Bello 

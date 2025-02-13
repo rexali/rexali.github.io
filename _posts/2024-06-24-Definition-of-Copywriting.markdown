@@ -2,7 +2,7 @@
 layout: post
 title:  "Definition of Copywriting"
 date:   2024-06-24 20:34:49 +0100
-categories: jekyll update
+categories: marketing update
 ---
 
 * So, you want to know what copywriting really means?

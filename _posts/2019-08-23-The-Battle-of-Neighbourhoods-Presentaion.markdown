@@ -2,7 +2,7 @@
 layout: post
 title:  "The Battle of Neighbourhood - Presentation"
 date:   2019-08-15 20:34:49 +0100
-categories: jekyll update
+categories: data-science update
 ---
 
 ## Introduction
